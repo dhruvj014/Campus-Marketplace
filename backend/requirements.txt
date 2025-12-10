@@ -1,0 +1,38 @@
+
+# FastAPI and web framework
+fastapi
+uvicorn
+python-multipart
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Authentication and Security
+python-jose
+passlib[bcrypt]
+
+# Validation and Configuration
+pydantic
+pydantic-settings
+email-validator
+
+# AWS SDK for S3
+boto3
+botocore
+
+# Additional utilities
+python-magic
+
+# AI/ML
+openai
+numpy
+
+# File handling and utilities
+python-dotenv
+
+# WebSocket support for real-time chat
+websockets
+wsproto
+python-socketio[asyncio]
